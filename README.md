@@ -8,8 +8,9 @@ To run this analysis, you need to have Python and the following packages install
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib statsmodels shap xgboost
-## Contributions
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-## License
+```bash
+## Contributing
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
+ 
