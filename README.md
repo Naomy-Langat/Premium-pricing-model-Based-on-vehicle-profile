@@ -2,15 +2,15 @@
 This project analyzes the significance of various vehicle attributes on insurance claims.
 The analysis aims to provide insights that can be useful for insurance companies in risk assessment and pricing.
 
-## Installation
+This project analyzes the significance of various vehicle attributes on insurance claim frequency and severity using statistical methods and Machine learning methods.
+## Table of Contents
+- [Introduction](#introduction)
+- [Data](#data)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [Installation](#installation)
+- [Usage](#usage)
 
-To run this analysis, you need to have Python and the following packages installed:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib statsmodels shap xgboost
-```bash
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
  
