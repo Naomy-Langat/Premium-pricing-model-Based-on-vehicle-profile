@@ -79,7 +79,7 @@ The relationship between carry capacity and gross payments indicated that larger
 Finally, luxury vehicles tend to contribute positively to gross payments, likely due to higher repair costs associated with their complex technologies.
 
 
- ##Usage
+ ## Usage
 Open Jupyter Notebooks in the Notebooks folder and run the cells to see the analysis
 
 ## Installation
