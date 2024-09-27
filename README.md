@@ -78,6 +78,10 @@ Smaller engine capacities are linked to lower claim amounts, while higher cubic 
 The relationship between carry capacity and gross payments indicated that larger vehicles may have lower risk profiles, resulting in fewer high-value claims.
 Finally, luxury vehicles tend to contribute positively to gross payments, likely due to higher repair costs associated with their complex technologies.
 
+
+ ##Usage
+Open Jupyter Notebooks in the Notebooks folder and run the cells to see the analysis
+
 ## Installation
 To run this project locally, clone the repository and install the necessary libraries.
 
@@ -85,5 +89,4 @@ To run this project locally, clone the repository and install the necessary libr
 git clone https://github.com/yourusername/vehicle-claim-analysis.git
 cd vehicle-claim-analysis
 pip install -r requirements.txt
-
- 
+--
